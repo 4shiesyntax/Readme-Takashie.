@@ -97,7 +97,7 @@
       <td>
         <!-- GitHub Stats (kiri) -->
         <img
-          src="https://github-readme-stats.vercel.app/api?username=xcainvcompany&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=false&card_width=380"
+          src="https://github-readme-stats.vercel.app/api?username=4shiesyntax&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&hide_border=false&card_width=380"
           alt="GitHub Stats"
           height="200"
         />
@@ -105,7 +105,7 @@
       <td>
         <!-- Streak (kanan) -->
         <img
-          src="https://nirzak-streak-stats.vercel.app/?user=xcainvcompany&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=ffffff&currStreakLabel=ffffff&card_width=380"
+          src="https://nirzak-streak-stats.vercel.app/?user=4shiesyntax&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=ffffff&currStreakLabel=ffffff&card_width=380"
           alt="GitHub Streak"
           height="200"
         />
@@ -117,7 +117,7 @@
 
   <!-- ========== Bottom row: full width ========== -->
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=xcainvcompany&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=4shiesyntax&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false"
     alt="Activity Graph"
     width="100%"
   />
