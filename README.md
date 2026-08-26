@@ -4,7 +4,7 @@
 
 <h1>Dazeyuratama.</h1>
 
-<p>Support me on Ko-fi</p>
+<img src="./assets/support-kofi.svg" alt="Support me on Ko-fi" width="520" />
 
 <p>
   <a href="https://ko-fi.com/dazeyuratama"><img src="./.github/assets/kofi.svg" alt="Support on Ko-fi" /></a>
