@@ -2,7 +2,7 @@
 
 <img src="./assets/image.png" alt="A monochrome classical sculpture banner" width="100%" />
 
-<h1>Dazeyuratama.</h1>
+<h1><strong>Dazeyuratama.</strong></h1>
 
 <img src="./assets/support-kofi.svg" alt="Support me on Ko-fi" width="520" />
 
@@ -12,6 +12,6 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/udarakasalife/udarakasalife/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/udarakasalife/udarakasalife/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
 
 </div>
