@@ -1,9 +1,17 @@
 <div align="center">
 
-<img src="./assets/banner%20awq.png" alt="A monochrome classical sculpture banner" width="100%" />
+<img src="./assets/image.png" alt="A monochrome classical sculpture banner" width="100%" />
+
+<h1>Dazeyuratama.</h1>
+
+<p>Support me on Ko-fi</p>
 
 <p>
   <a href="https://ko-fi.com/dazeyuratama"><img src="./.github/assets/kofi.svg" alt="Support on Ko-fi" /></a>
 </p>
+
+<br />
+
+<img src="https://raw.githubusercontent.com/udarakasalife/udarakasalife/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
 
 </div>
